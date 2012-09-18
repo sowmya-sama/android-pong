@@ -1153,10 +1153,9 @@ public class PongView extends View implements OnTouchListener, OnKeyListener {
 		private static final int PADDLE_THICKNESS = 15;
 		
 		/** Width of the paddle */
-<<<<<<< HEAD
-		private static final int PADDLE_WIDTH = 30;
-=======
+
+
 		private static final int PADDLE_WIDTH = 60 ;
->>>>>>> otherrepo/master
+
 	}
 }
